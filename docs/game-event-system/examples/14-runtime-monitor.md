@@ -155,7 +155,7 @@ public void OnHeavyExecution(GameObject sender, DamageInfo info)
 **Step 1: Open Monitor Window**
 - **Menu**
 
-  The utility is located within the **[Game Event System](docs/game-event-system/visual-workflow/game-event-system)**, you can access through the following method:
+  The utility is located within the **[Game Event System](../visual-workflow/game-event-system)**, you can access through the following method:
 
   **From the System Dashboard:**
 
