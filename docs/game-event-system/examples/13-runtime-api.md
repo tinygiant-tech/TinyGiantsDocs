@@ -3,7 +3,7 @@ sidebar_label: '13 Runtime API'
 sidebar_position: 14
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 13 Runtime API: Code-First Workflow
 

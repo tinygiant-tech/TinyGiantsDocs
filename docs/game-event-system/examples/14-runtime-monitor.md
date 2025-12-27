@@ -3,7 +3,7 @@ sidebar_label: '14 Runtime Monitor'
 sidebar_position: 15
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 14 Runtime Monitor: Production Observability
 

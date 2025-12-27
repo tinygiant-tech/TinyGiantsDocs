@@ -3,7 +3,7 @@ sidebar_label: '01 Void Event'
 sidebar_position: 2
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 01 Void Event: The Decoupled Architecture
 

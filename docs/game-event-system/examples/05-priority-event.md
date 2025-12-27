@@ -3,7 +3,7 @@ sidebar_label: '05 Priority Event'
 sidebar_position: 6
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 05 Priority Event: Execution Order Matters
 

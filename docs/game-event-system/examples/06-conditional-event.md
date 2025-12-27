@@ -3,7 +3,7 @@ sidebar_label: '06 Conditional Event'
 sidebar_position: 7
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 06 Conditional Event: Visual Logic Builder
 

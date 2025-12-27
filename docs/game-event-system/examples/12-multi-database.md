@@ -3,7 +3,7 @@ sidebar_label: '12 Multi Database'
 sidebar_position: 13
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 12 Multi Database: Modular Event Architecture
 

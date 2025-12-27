@@ -3,7 +3,7 @@ sidebar_label: '11 Chain Event'
 sidebar_position: 12
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 11 Chain Event: Sequential Execution Pipeline
 

@@ -3,7 +3,7 @@ sidebar_label: '02 Basic Types Event'
 sidebar_position: 3
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 02 Basic Types Event: Passing Data with Events
 

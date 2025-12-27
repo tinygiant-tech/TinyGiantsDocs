@@ -3,7 +3,7 @@ sidebar_label: '03 Custom Type Event'
 sidebar_position: 4
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 03 Custom Type Event: Automated Code Generation
 

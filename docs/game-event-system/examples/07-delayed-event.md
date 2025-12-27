@@ -3,7 +3,7 @@ sidebar_label: '07 Delayed Event'
 sidebar_position: 8
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 07 Delayed Event: The Time Bomb Scenario
 

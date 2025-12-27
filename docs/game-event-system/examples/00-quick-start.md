@@ -3,7 +3,7 @@ sidebar_label: '00 Quick Start'
 sidebar_position: 1
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 🚀 Quick Start
 

@@ -3,7 +3,7 @@ sidebar_label: '10 Trigger Event'
 sidebar_position: 11
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 10 Trigger Event: Parallel Event Dispatch
 

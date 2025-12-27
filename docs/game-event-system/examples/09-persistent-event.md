@@ -3,7 +3,7 @@ sidebar_label: '09 Persistent Event'
 sidebar_position: 10
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 09 Persistent Event: Surviving Scene Loads
 

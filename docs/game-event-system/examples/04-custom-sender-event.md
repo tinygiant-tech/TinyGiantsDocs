@@ -3,7 +3,7 @@ sidebar_label: '04 Custom Sender Event'
 sidebar_position: 5
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 04 Custom Sender Event: Context-Aware Events
 

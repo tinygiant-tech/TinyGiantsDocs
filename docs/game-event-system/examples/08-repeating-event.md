@@ -3,7 +3,7 @@ sidebar_label: '08 Repeating Event'
 sidebar_position: 9
 ---
 
-import VideoGif from '@site/src/components/VideoGif';
+import VideoGif from '@site/src/components/Video/VideoGif';
 
 # 08 Repeating Event: Automated Loops
 

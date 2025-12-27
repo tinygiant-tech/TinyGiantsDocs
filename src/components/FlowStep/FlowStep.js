@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import * as Icons from 'lucide-react';
-import '../css/flow-style.css';
+import './flow-style.css';
 
 export const Node = ({ title, icon, type, sub, id }) => {
   const IconComponent = Icons[icon] || Icons.Circle;
